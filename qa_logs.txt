@@ -1,0 +1,46 @@
+2025-09-18 19:26:32,227 - Use pytorch device_name: cpu
+2025-09-18 19:26:32,227 - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-09-18 19:26:37,188 - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-09-18 19:27:50,161 - Q: what are unique selling points in strategicerp?
+A: According to the text, the unique selling points (USPs) of StrategicERP are:
+
+* Industry-Specific Solutions
+* Advanced Technology Integration
+* User-Friendly Interface
+* ERP Admin module USPs:
+	+ Get alerted about new versions available on the ERP Store
+	+ Bulk user imports available for user creation
+Sources: ['C:\\Users\\viraj\\llm-chatbot\\data\\usps.pdf', 'C:\\Users\\viraj\\llm-chatbot\\data\\usps.pdf', 'C:\\Users\\viraj\\llm-chatbot\\data\\usps.pdf']
+
+2025-09-19 18:52:37,086 - Use pytorch device_name: cpu
+2025-09-19 18:52:37,086 - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-09-19 18:52:43,803 - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-09-19 18:53:58,415 - Q: suggest some good bars in langkawi
+A: Based on the context provided, here are some suggested good bars in Langkawi:
+
+* Yellow Café – a relaxed beachfront bar.
+* Kalut Bar N’ Café – known for bonfires and casual parties.
+* Antero Langkawi – a club lounge with DJs/live bands.
+* Marrakesh Musicteque Club & Lounge – a dance club.
+* Sunba Retro Bar – a retro-themed dance floor.
+* One Love Reggae Bar – a bar with chill reggae vibes.
+
+Note: Prices for entry fees are usually free or RM 20-50 (\u20b9350-\u20b9900), so you may want to check the individual bars for any specific requirements.
+Sources: ['C:\\Users\\viraj\\llm-chatbot\\data\\Langkawi.docx', 'C:\\Users\\viraj\\llm-chatbot\\data\\Langkawi.docx', 'C:\\Users\\viraj\\llm-chatbot\\data\\Langkawi.docx']
+
+2025-09-19 20:22:03,569 - Use pytorch device_name: cpu
+2025-09-19 20:22:03,569 - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-09-19 20:22:10,234 - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-09-19 20:26:47,206 - Use pytorch device_name: cpu
+2025-09-19 20:26:47,206 - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-09-19 20:26:52,639 - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-09-19 20:27:45,519 - Use pytorch device_name: cpu
+2025-09-19 20:27:45,522 - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-09-19 20:27:50,516 - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-09-19 20:45:03,356 - Use pytorch device_name: cpu
+2025-09-19 20:45:03,357 - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-09-19 20:45:08,516 - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-09-19 20:45:53,959 - Use pytorch device_name: cpu
+2025-09-19 20:45:53,959 - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-09-19 20:46:10,807 - Use pytorch device_name: cpu
+2025-09-19 20:46:10,807 - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2

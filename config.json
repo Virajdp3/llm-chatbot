@@ -1,0 +1,11 @@
+{
+  "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+  "db_path": "vector_db",
+  "llm_model": "llama3",
+  "search_k": 3,
+  "log_file": "qa_logs.txt",
+  "llm_params": {
+    "temperature": 0.2,
+    "num_ctx": 2048
+  }
+}

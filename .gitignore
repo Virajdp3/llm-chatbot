@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+vector_db/
+chat_history.json
+qa_logs.txt
+*.pyc
